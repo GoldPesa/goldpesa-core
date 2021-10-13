@@ -1,0 +1,10 @@
+{
+  "name": "goldpesa-core",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.1",
+    "@openzeppelin/contracts": "^4.3.1",
+    "@uniswap/v3-periphery": "^1.2.0"
+  }
+}
